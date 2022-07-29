@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Lobster&family=Poppins:wght@400;500;600;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.edu-join-bg {
+    background-color: #289BDE;
+}
+.edu-text-info {
+    color: #289BDE;
+}
+.edu-elearning-bg {
+    background-color: #F4FAFD;
+}
+.edu-btn-primary {
+    background-color: #289BDE;
+}
