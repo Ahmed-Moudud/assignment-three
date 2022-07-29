@@ -2,8 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Lobster&family=Poppins:wght@400;500;600;700&display=swap');
 
 body {
-    font-family: 'Poppins', sans-serif;
-    
+    font-family: 'Poppins', sans-serif;    
 }
 
 
@@ -17,5 +16,9 @@ body {
     background-color: #F4FAFD;
 }
 .edu-btn-primary {
-    background-color: #289BDE;
+    background-color: #087bbe;
+}
+#btn-reginster-now:hover {
+    color: #2c6fd4;
+ 
 }
